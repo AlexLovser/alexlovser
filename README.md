@@ -2,6 +2,6 @@
 
 **Experience:**
 
-    * Cyber Faceit Corporation *
+    Cyber Faceit Corporation 
     
-    * ООО Анишин, Крюков и партнеры *
+    ООО Анишин, Крюков и партнеры
