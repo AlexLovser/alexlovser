@@ -4,4 +4,4 @@
 
     Cyber Faceit Corporation 
     
-    ООО Анишин, Крюков и партнеры
+    ООО Anishin, Krukov and partners
