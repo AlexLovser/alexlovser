@@ -1,7 +1,7 @@
 ## Hello! My name is Alex Losver, and I'm Full-Stack Developer.
 
-**--------- Experience:**
+**Experience:**
 
-    * Cyber Faceit Corporation
+    * Cyber Faceit Corporation *
     
-    * ООО Анишин, Крюков и партнеры
+    * ООО Анишин, Крюков и партнеры *
