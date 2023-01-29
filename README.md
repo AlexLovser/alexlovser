@@ -7,3 +7,6 @@
 ```ООО Anishin, Krukov and partners```
 
 - [express.legalcalc.ru](https://express.legalcalc.ru/)
+
+
+```NEXT Corporation```
