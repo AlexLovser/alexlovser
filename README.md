@@ -11,5 +11,5 @@
 
 ```NEXT Corporation```
 
-![CV](/Frame32.png)
-<img src="/Frame32.png" alt="asdas"/>
+![CV]([/Frame32.png](https://github.com/AlexLovser/alexlovser/blob/main/Frame32.png)https://github.com/AlexLovser/alexlovser/blob/main/Frame32.png)
+<img src="[/Frame32.png](https://github.com/AlexLovser/alexlovser/blob/main/Frame32.png)https://github.com/AlexLovser/alexlovser/blob/main/Frame32.png" alt="asdas"/>
