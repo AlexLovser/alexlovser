@@ -11,5 +11,4 @@
 
 ```NEXT Corporation```
 
-
-![alt text](./Frame32.png)
+<img src="./Frame32.png)" alt="Alt text" title="CV">
