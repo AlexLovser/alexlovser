@@ -12,4 +12,4 @@
 ```NEXT Corporation```
 
 
-![alt text](Frame32.png)
+![alt text](Frame 32.png)
