@@ -11,4 +11,4 @@
 
 ```NEXT Corporation```
 
-![My Image](Frame32.png)
+![CV](https://github.com/AlexLovser/alexlovser/raw/main/Frame32.png)
