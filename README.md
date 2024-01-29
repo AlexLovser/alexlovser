@@ -12,3 +12,4 @@
 ```NEXT Corporation```
 
 ![CV](/Frame32.png)
+<img src="Frame32.png" alt="asdas"/>
