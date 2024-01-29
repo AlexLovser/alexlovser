@@ -12,4 +12,4 @@
 ```NEXT Corporation```
 
 
-![alt text](https://github.com/AlexLovser/alexlovser/blob/main/Frame32.png?raw=true)
+![alt text](./Frame32.png)
