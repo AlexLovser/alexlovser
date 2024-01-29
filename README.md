@@ -12,4 +12,4 @@
 ```NEXT Corporation```
 
 ![CV]([/Frame32.png](https://github.com/AlexLovser/alexlovser/blob/main/Frame32.png)https://github.com/AlexLovser/alexlovser/blob/main/Frame32.png)
-<img src="[/Frame32.png](https://github.com/AlexLovser/alexlovser/blob/main/Frame32.png)https://github.com/AlexLovser/alexlovser/blob/main/Frame32.png" alt="asdas"/>
+<img height="100px" width="100px" src="[/Frame32.png](https://github.com/AlexLovser/alexlovser/blob/main/Frame32.png)https://github.com/AlexLovser/alexlovser/blob/main/Frame32.png" alt="asdas"/>
