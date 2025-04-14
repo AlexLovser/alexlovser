@@ -15,3 +15,6 @@
 
 ```Crypto Investor App```
 https://t.me/cryptoinvestorappBot/cryptoinvestor
+
+```FScore Team / King Pay```
+
