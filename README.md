@@ -14,7 +14,7 @@
 ```STON LIMITED Admin panel```
 
 ```Crypto Investor App```
-https://t.me/cryptoinvestorappBot/cryptoinvestor
+- [cryptoinvestor](https://t.me/cryptoinvestorappBot/cryptoinvestor)
 
 ```FScore Team / King Pay```
 
