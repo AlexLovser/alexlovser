@@ -13,4 +13,5 @@
 
 ```STON LIMITED Admin panel```
 
-![CV](Frame32.png)
+```Crypto Investor App```
+https://t.me/cryptoinvestorappBot/cryptoinvestor
