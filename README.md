@@ -2,9 +2,7 @@
 
 ## Backend Developer, 5+ years experience
 
-## GMT +2
-
-aleksandr.tabolskii@gmail.com              [LinkedIn](https://www.linkedin.com/in/alex-lovser/)
+GMT +2 | aleksandr.tabolskii@gmail.com | [LinkedIn](https://www.linkedin.com/in/alex-lovser/)
 
 ## ABOUT
 
