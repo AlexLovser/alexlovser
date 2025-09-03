@@ -2,8 +2,6 @@
 
 ## Backend Developer, 5+ years experience
 
-## +33 (06) 84 32 20 91
-
 ## GMT +2
 
 aleksandr.tabolskii@gmail.com              [LinkedIn](https://www.linkedin.com/in/alex-lovser/)
